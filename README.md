@@ -39,6 +39,4 @@ The final result is a heatmap that shows how features are related:
 
 This helps to quickly identify which factors influence each other.
 
-Generate relationship matrix
 
-Visualize with a heatmap
